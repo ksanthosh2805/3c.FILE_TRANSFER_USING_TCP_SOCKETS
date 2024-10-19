@@ -57,8 +57,10 @@ while True:
 ```
 ## OUTPUT
 **Server**
+
 ![output](./server.png)
 **Client**
+
 ![output](./client.png)
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
